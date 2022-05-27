@@ -1,0 +1,108 @@
+body{
+    background-color: silver;
+}
+nav{
+    background-color: green ;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    
+}
+.box{
+    background-color: white;
+    width: 150px ;
+    height: 100x;
+    margin: 15px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+header{
+    background-color: cornflowerblue;
+    border: 5px;
+    width: 1000px;
+    height: 320px;
+    display: flex;
+    border-top: 10px solid black;
+    border-bottom: 5px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black; 
+   
+}
+.banner{
+    background-color: whitesmoke;
+    width: 800px ;
+    height: 270px;
+    margin: 10px;
+    text-align: center;
+    line-height: 250px;
+    font-size: 40px;
+}
+section{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 270px;
+    float: right;
+    margin: 5px;
+    border-radius: 10px;
+  }
+  .logo{
+    background-color: white;
+    width: 150px;
+    height: 80px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 25px;
+}
+main
+{
+    width: 1000px;
+    height: 320px;
+    background-color: wheat;
+    display: flex;
+    border-top: 10px solid black;
+    border-bottom: 2px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    
+}
+.aside
+{
+    background-color: white;
+    width: 250px;
+    height: 315px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+}
+.articulo
+{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 315px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 20px;
+}
+footer{
+    background-color: rgb(253, 217, 11);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
