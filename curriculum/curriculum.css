@@ -1,0 +1,141 @@
+.titulo{
+display: flex;
+padding: 5px;
+background-color: powderblue;
+height: 100px;
+width: 1150px;
+border-top: 10px solid black;
+border-left: 10px solid black;
+border-right: 10px solid black;
+}
+h1{
+color: black;
+text-align: center;
+font-size: large;
+line-height: 50px;
+
+
+}
+
+.DIVS{
+
+    background-color: gainsboro;
+    color: white;
+    width: 1000px;
+    height: 50px;
+    float: center;
+    line-height: 20px;
+    font-size: 10px;
+    margin: 20px;
+
+}
+
+.Imagen{
+    width: 250px;
+    height: 250px;
+    float: left;
+    padding: 0px;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.subtitulo{
+    display: flex;
+    height: 250px;
+    width: 900px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 0px solid black;
+    border-right: 10px solid black;
+
+}
+
+
+li{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.xp{
+    text-align: left;
+    margin: 6px;
+}
+h2{
+    text-align: center;
+    padding: 5px;
+    color: red;
+
+}
+.Dato{
+    float: left;
+    height: 250px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.capacidades{
+    display: flex;
+    text-align: center;  
+    padding: 5px;
+    float: left;
+    background-color: powderblue;
+    height: 100px;
+    width: 1150px;
+    line-height: 50px;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+
+.Lengua{
+    float: left;
+    height: 150px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.otros{
+    float: left;
+    height: 150px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.capacidadess{
+    float: left;
+    height: 200px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.permiso{
+    float: left;
+    height: 100px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;  
+}
+
+.adiccional{
+    float: left;
+    height: 100px;
+    width: 1160px;
+    background-color: grey;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black; 
+}
