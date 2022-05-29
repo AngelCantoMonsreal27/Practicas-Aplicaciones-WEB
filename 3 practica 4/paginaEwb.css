@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 10px;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+
+}
+
+.logo img{
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+.buscador{
+    height: 25px;
+    width: 800px;
+    border-radius: 20px;
+}
+.boogle{
+    height: 50px;
+    width: 1000px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto; 
+    align-items: center;
+}
+
+.orden{
+    margin: 10px;
+    width: 50vw;
+    margin-left: 25vw;
+    margin-top: 350px;
+}
+.titul{
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 100px;
+
+}
