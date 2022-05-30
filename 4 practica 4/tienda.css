@@ -1,0 +1,15 @@
+main>.container {
+    padding: 30px 0;
+}
+img{
+    height: 400px;
+}
+.titulo{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;    
+    font-size: 100px;
+
+
+}
